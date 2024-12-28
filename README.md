@@ -1,5 +1,5 @@
 # Video Game Mobile Application Design 🎮
-This project showcases the design of a mobile application for a video game (Animal Crossing New Horizens), created using Figma. 
+This project showcases the design of a mobile application for a video game (Animal Crossing New Horizons), created using Figma. 
 The design includes 12 interfaces, covering key features such as:
 
 - Sign-Up and Sign-In Pages: Streamlined onboarding experience. 
